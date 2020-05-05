@@ -1,0 +1,13 @@
+中国,cnty,n,1,1
+美国,cnty,n,1,2
+北京,city,n,1,1
+上海,city,n,1,2
+黄山风景区,sigt,n,1,12
+陆家嘴,zone,n,1,43
+东方明珠塔,sigt,n,1,55
+东方明珠塔,lamk,n,1,32
+松江区,locn,n,1,78
+松江,locn,n,1,78
+china,cnty,n,1,1
+america,cnty,n,1,2
+usa,cnty,n,1,2
